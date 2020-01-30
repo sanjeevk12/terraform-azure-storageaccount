@@ -25,11 +25,11 @@ variable "replicationType" {
 variable "enableSecureTransfer" {
   description = "Enable Secure Transfer"
 }
-
+/*
 variable tags {
   type = "map"
 }
-/*
+
 variable "virtual_network_subnet_ip" {
   type = "map"
   default = {
