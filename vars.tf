@@ -29,7 +29,7 @@ variable "enableSecureTransfer" {
 variable tags {
   type = "map"
 }
-
+/*
 variable "virtual_network_subnet_ip" {
   type = "map"
   default = {
@@ -38,3 +38,4 @@ variable "virtual_network_subnet_ip" {
     "qa"      = "qa"
   }
 }
+*/
